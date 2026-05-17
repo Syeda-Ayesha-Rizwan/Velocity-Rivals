@@ -99,9 +99,26 @@ All game logic and custom collections (`CustomQueue`, `CustomStack`, `CustomHash
 
 This project was built as a demonstration of custom data structures and real‑time game development in pure Java. Suggestions and bug reports are welcome – feel free to open an issue or submit a pull request.
 
-## 📄 License
+## 📄 Screenshots : 
 
-MIT License – feel free to use, modify, and distribute this code.
+
+<img width="1197" height="716" alt="image" src="https://github.com/user-attachments/assets/831a6585-7064-4bd4-87d1-5892566e6831" />
+
+ <img width="1198" height="717" alt="image" src="https://github.com/user-attachments/assets/657b2077-8bdd-476f-b11f-1b1f93cb2b1f" />
+
+
+<img width="371" height="137" alt="image" src="https://github.com/user-attachments/assets/4aa686f5-b2e5-4728-99ff-153ce3b49a5f" />
+<img width="1193" height="715" alt="image" src="https://github.com/user-attachments/assets/b371b249-be3f-4e7f-b3d4-b4a05a3c0e2c" />
+
+
+
+<img width="1200" height="722" alt="Screenshot 2026-05-01 235548" src="https://github.com/user-attachments/assets/a3bd270b-4e2f-4fd2-8f5d-91fe749e20cb" />
+
+<img width="1195" height="687" alt="Screenshot 2026-05-01 235709" src="https://github.com/user-attachments/assets/fcbceb6a-8fc1-40d9-b22d-0cfd9f594d24" />
+
+
+
+
 
 --
 
