@@ -1,4 +1,4 @@
-# Velocity Rivals – Racing Arcade Game
+# Velocity Rivals – Racing Arcade Game.
 
 **Velocity Rivals** is a high‑speed Java racing game built with Swing and AWT. It features two distinct game modes, local multiplayer, custom power‑ups, dynamic visual themes, and a strict **“any collision = game over”** rule that keeps every race intense.
 
